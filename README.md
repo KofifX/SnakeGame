@@ -1,3 +1,3 @@
 Simple snake game in python
 
-discord : pakpak#5600
+discord : LIOR〤#1111
